@@ -1,0 +1,6 @@
+pytest
+black
+fastapi
+pylint
+uvicorn[standard]
+httpx
